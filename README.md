@@ -4,13 +4,13 @@
   <samp>
     :wave: Hey! I develop mobile applications for a living
     <br>My current work focuses on tech consulting on many
-      <br><em>big name client</em> apps
+      <br><em>big name client</em> iOS apps
     <br><br>
     <img src="https://media.giphy.com/media/d6WWh3Em7kWHu/giphy.gif" width="240px" align="center">
     <br><br>Check out my personal website! <a href="https://cmcgheit.github.io">Github.io</a><br>
     <br><br>Here are some of the technologies/tools I have worked with:<br>
     <ui>
-      <li><b>Languages:</b> Swift, Objective-C, Javascript, HTML, CSS, Ruby, Python, Java, Kotlin<li>
+      <li><b>Languages:</b> Swift, Objective-C, Javascript, HTML, CSS, Ruby, Python, Java, Kotlin</li>
       <li><b>Databases:</b> MySQL, SQL Server, Node.js</li>
       <li><b>Tools:</b> Git, Xcode, Firebase, AWS</li>
     </ui>
