@@ -25,7 +25,18 @@ Here are some of my favorite Github repos I've created:<br>
   <li><a href="https://github.com/cmcgheit/Watson-Chat">Watson Chat</a></li>
 </ul>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmcgheit&show_icons=true&include_all_commits=true&theme=radical" alt="Carey's github stats" />
+</a>  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcgheit&layout=compact&theme=radical" />
+</a>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmcgheit&repo=cmcgheit.github.io&theme=radical" />
+</a>
+
 <details>
   <summary><b>:telescope: 2020 goals</b></summary>
   Update all my current app store apps with SwiftUI, release some self taught resources I have been working on that helped me go from self taught programmer to developer with years of experience to the public.
 </details>
+
