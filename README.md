@@ -17,14 +17,6 @@
   </samp>
 </p>
 
- <summary><b>:heart_eyes: Favorite Github Repos</b></summary>
-Here are some of my favorite Github repos I've created:<br>
-<ul>
-  <li><a href="https://github.com/cmcgheit/Hacker-News-Reader">Hacker News Reader v1</a></li>
-  <li><a href="https://github.com/cmcgheit/Wallpaper-App">Wallpaper App v1</a></li>
-  <li><a href="https://github.com/cmcgheit/Watson-Chat">Watson Chat</a></li>
-</ul>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmcgheit&show_icons=true&include_all_commits=true&theme=radical" alt="Carey's github stats" />
 </a>  
