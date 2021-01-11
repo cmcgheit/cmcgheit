@@ -28,7 +28,7 @@
 </a>
 
 <details>
-  <summary><b>:telescope: 2020 goals</b></summary>
+  <summary><b>:telescope: 2021 goals</b></summary>
   Update all my current app store apps with SwiftUI, release some self taught resources I have been working on that helped me go from self taught programmer to developer with years of experience to the public.
 </details>
 
