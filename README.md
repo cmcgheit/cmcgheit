@@ -14,8 +14,15 @@
       <li><b>Databases:</b> MySQL, SQL Server, Node.js</li>
       <li><b>Tools:</b> Git, Xcode, Firebase, AWS</li>
     </ui>
+    <samp><p align="center"><br>Personal Swift Cheatsheets:</center>
+    <br><br>
+    - <a href="https://exe.io/XB2G5Y">Personal List of Tips for Self-Taught iOS/Swift Developers</a>
+      
   </samp>
+  <p>
 </p>
+
+<br><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cmcgheit&show_icons=true&include_all_commits=true&theme=radical" alt="Carey's github stats" />
@@ -29,6 +36,6 @@
 
 <details>
   <summary><b>:telescope: 2021 goals</b></summary>
-  Update all my current app store apps with SwiftUI, release some self taught resources I have been working on that helped me go from self taught programmer to developer with years of experience to the public.
+  Update all my current app store apps with SwiftUI
 </details>
 
