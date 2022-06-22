@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carey</h1>
-<h3 align="center"><img src="https://media.giphy.com/media/VgAxPUEkd8ObmCLRp9/giphy.gif" width="35px"><br>
+<h3 align="center"><img src="https://media.giphy.com/media/VgAxPUEkd8ObmCLRp9/giphy.gif" width="35"><br>
   A passionate iOS Developer from Chicago</h3>
  
  - 🔭 I’m currently working on [The Missing](https://itunes.apple.com/us/app/the-missing/id1381186076?ls=1&mt=8) && [Hacker News](https://itunes.apple.com/us/app/hacked-news/id1378077153?ls=1&mt=8)
